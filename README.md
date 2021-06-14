@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tapan05
 - 👀 I’m interested in ...programming, web development and machine learning
 - 🌱 I’m currently learning ...machine learning
-- 💞️ I’m looking to collaborate on ...web development
+- 💞️ I’m looking to collaborate on ...web development and machine learning
 - 📫 How to reach me ...email me singhbainstapanjot@gmail.com
 
 <!---
